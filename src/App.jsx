@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Products } from './Components/Products/Products'
 // import './App.css'
 
 function App() {
@@ -6,9 +7,9 @@ function App() {
 
   return (
     <>
-      <p>
-        Click on the Vite and React logos to learn more
-      </p>
+    <h1>Ideas de Menu Semanal</h1>
+  
+      <Products />
     </>
   )
 }
