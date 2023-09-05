@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Products } from './Components/Products/Products'
+import { Food } from './Components/Products/Food'
 // import './App.css'
 
 function App() {
